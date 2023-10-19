@@ -23,12 +23,12 @@
 						}
 					}, [t._v("#")]), t._v(" Sohoads Team")]), t._v(" "), e("p", [t._v("新官网正在施工中，请稍等……")]), t._v(" "), e("h2", {
 						attrs: {
-							id: "dism"
+							id: "destiny"
 						}
 					}, [e("a", {
 						staticClass: "header-anchor",
 						attrs: {
-							href: "#dism"
+							href: "#destiny"
 						}
 					}, [t._v("#")]), t._v(" DESTINYMOD++")]), t._v(" "), e("ul", [e("li", [t._v("最新稳定版本："), e("a", {
 						attrs: {
@@ -66,7 +66,7 @@
 							target: "_blank",
 							rel: "noopener noreferrer"
 						}
-					}, [t._v("https://t.me/chuyuoss"), e("OutboundLink")], 1)])])])
+					}, [t._v("https://t.me/DestinyModChatCn"), e("OutboundLink")], 1)])])])
 				}), [], !1, null, null, null);
 			e.default = a.exports
 		}
