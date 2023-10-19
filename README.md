@@ -1,3 +1,3 @@
-# Chuyu-Team.github.io
+# Sohoad-Team.github.io
 
-[WIP] Chuyu Team official website based on GitHub Pages
+[WIP] Sohoad Team official website based on GitHub Pages
