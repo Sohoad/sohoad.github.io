@@ -4,20 +4,18 @@ heroImage: /assets/image/logo.png
 footer: Copyright © 2012-Present Chuyu Team. All rights reserved.
 ---
 
-# Chuyu Team
+# Sohoads Team
 
 The new official website is working in progress, please wait...
 
-## DISM++
+## DESTINYMOD++
 
-- The latest stable release: [https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest](https://github.com/Chuyu-Team/Dism-Multi-language/releases/latest)
-
+- The latest stable release: [https://github.com/Xposed-Modules-Repo/xdc.destinyImm/releases/latest](https://github.com/Xposed-Modules-Repo/xdc.destinyImm/releases/latest)
+  
 ## The user group (Chinese)
 
-- QQ: 361689191
-- Telegram: [https://t.me/dismpluschinese](https://t.me/dismpluschinese)
+- Telegram: [https://t.me/DestinyModChatCn](https://t.me/DestinyModChatCn)
 
-## The open source community group
+## The open community group (Chinese)
 
-- QQ: 633710173
-- Telegram: [https://t.me/chuyuoss](https://t.me/chuyuoss)
+- FatOtaku Funland: [https://pd.qq.com/s/gacaf5jwq](https://pd.qq.com/s/gacaf5jwq)
